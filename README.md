@@ -368,25 +368,23 @@ curl http://localhost:3000/api/health
 
 ## Screenshots
 
-<!-- Note: Place your screenshot images in the public/screenshots/ directory -->
+### Homepage
+![CampusCart Homepage](public/screenshots/homepage.png)
 
-### 1. Homepage & Hero
-![Homepage](https://via.placeholder.com/1200x675.png?text=CampusCart+Homepage+%26+Hero+Section)
+### Marketplace
+![CampusCart Marketplace](public/screenshots/marketplace.png)
 
-### 2. Marketplace Discovery & Filters
-![Marketplace](https://via.placeholder.com/1200x675.png?text=CampusCart+Marketplace+Search+%26+Filters)
+### Product Details
+![Product Details](public/screenshots/product-details.png)
 
-### 3. Product Details & Similar Items
-![Product Details](https://via.placeholder.com/1200x675.png?text=CampusCart+Product+Details+%26+Similar+Items)
+### Sell Item
+![Sell Item](public/screenshots/sell-item.png)
 
-### 4. Post & Edit Listing Form
-![Sell Form](https://via.placeholder.com/1200x675.png?text=CampusCart+Sell+Item+Form)
+### Seller Profile
+![Seller Profile](public/screenshots/seller-profile.png)
 
-### 5. Dedicated Seller Profile
-![Seller Profile](https://via.placeholder.com/1200x675.png?text=CampusCart+Seller+Profile+%26+Contact+Rules)
-
-### 6. Student Dashboard & Notifications
-![Student Dashboard](https://via.placeholder.com/1200x675.png?text=CampusCart+Student+Dashboard+%26+Activity+Feed)
+### Student Dashboard
+![Student Dashboard](public/screenshots/dashboard.png)
 
 ---
 
