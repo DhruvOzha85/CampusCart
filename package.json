@@ -7,9 +7,7 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "seed": "node src/scripts/seed.js",
-    "test": "node --env-file=.env.local test-phase3.js",
-    "test:audit": "node --env-file=.env.local test-compliance.js"
+    "seed": "node src/scripts/seed.js"
   },
   "dependencies": {
     "next": "^14.2.18",

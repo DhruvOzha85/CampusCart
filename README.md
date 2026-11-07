@@ -125,9 +125,7 @@ campuscart/
 ├── package.json
 ├── postcss.config.js
 ├── README.md
-├── tailwind.config.js
-├── test-compliance.js
-└── test-phase3.js
+└── tailwind.config.js
 ```
 
 ---
@@ -161,14 +159,10 @@ npm run dev
 ```
 Open [http://localhost:3000](http://localhost:3000) in your browser.
 
-### 5. Automated Compliance Audit
-Run the complete 21-step assignment compliance test suite:
+### 5. Build for Production
 ```bash
-# In one terminal:
-npm run build && npm run start
-
-# In a second terminal:
-npm run test:audit
+npm run build
+npm run start
 ```
 
 ---
