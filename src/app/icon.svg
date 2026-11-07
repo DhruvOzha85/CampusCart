@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <defs>
+    <linearGradient id="ccGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#10B981"/>
+      <stop offset="100%" stop-color="#059669"/>
+    </linearGradient>
+  </defs>
+  <!-- Rounded Emerald Background -->
+  <rect width="64" height="64" rx="16" fill="url(#ccGrad)"/>
+  
+  <!-- Shopping Bag Handle -->
+  <path d="M24 24 C24 16, 40 16, 40 24" fill="none" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round"/>
+  
+  <!-- Shopping Bag Body -->
+  <path d="M18 24 L46 24 L43 49 C43 51.5, 40.5 53, 37.5 53 L26.5 53 C23.5 53, 21 51.5, 21 49 Z" fill="#FFFFFF"/>
+  
+  <!-- CampusCart Minimalist 'C' Cutout -->
+  <path d="M35 34 C35 32, 33.5 30.5, 31 30.5 C28 30.5, 26 33, 26 38 C26 43, 28 45.5, 31 45.5 C33.5 45.5, 35 44, 35 42" fill="none" stroke="#059669" stroke-width="3.5" stroke-linecap="round"/>
+</svg>
